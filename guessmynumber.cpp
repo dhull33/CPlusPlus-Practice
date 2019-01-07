@@ -19,5 +19,4 @@ void guessmynumber () {
             keepgoing = false;
         }
     }
-    return;
 }

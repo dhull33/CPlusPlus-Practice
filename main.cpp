@@ -1,7 +1,7 @@
 #include <iostream>
+#include "./headers/functions.h"
 using namespace std;
 
-void guessmynumber();
 int main() {
     // endl means end of line
     cout << "Hello, World!" << endl << 2+2 ;
