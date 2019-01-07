@@ -3,4 +3,4 @@ project(C__Practice)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(C__Practice main.cpp)
+add_executable(C__Practice guessmynumber.cpp)
