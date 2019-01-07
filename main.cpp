@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+void guessmynumber();
 int main() {
     // endl means end of line
     cout << "Hello, World!" << endl << 2+2 ;
@@ -20,5 +21,6 @@ int main() {
     // auto leaves the type up to the compiler
     auto k = 45 / 3.5;
     cout << k << endl;
+    guessmynumber();
     return 0;
 }

@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main () {
+void guessmynumber () {
     bool keepgoing = true;
     int myanswer = 7;
     int theiranswer;
@@ -19,4 +19,5 @@ int main () {
             keepgoing = false;
         }
     }
+    return;
 }
