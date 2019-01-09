@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    print("Hello there!");
     // endl means end of line
     cout << "Hello, World!" << endl << 2+2 ;
 
