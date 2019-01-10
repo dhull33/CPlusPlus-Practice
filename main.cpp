@@ -1,15 +1,14 @@
 #include <iostream>
+#include <string>
 #include "./headers/functions.h"
 using namespace std;
 
 int main() {
     print("Hello there!");
     // endl means end of line
-    cout << "Hello, World!" << endl << 2+2 ;
+    cout << "Hello, World!" << endl <<;
 
-    cout << endl << endl;
-
-    // declare an integer i and then initialize it with 3
+    // declare an integer i and then initialize it with 4
     int i;
     i = 4;
     cout << i << endl;
