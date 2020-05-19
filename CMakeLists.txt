@@ -6,5 +6,5 @@ set(CMAKE_CXX_STANDARD 17)
 # then add line 10 to link them together
 #ADD_LIBRARY(GuessMyNumber guessmynumber.cpp)
 
-add_executable(C__Practice main.cpp functions.cpp guessmynumber.cpp functions.h print.cpp print.h)
+add_executable(C__Practice main.cpp guessmynumber.cpp print.cpp Pi.c Pi.h)
 #target_link_libraries(C__Practice GuessMyNumber)
